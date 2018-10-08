@@ -62,7 +62,7 @@ These are the exam objectives you review and understand in order to pass the tes
 * Secure persistent key value store
 * Work with role-based access control
 
-### [_Installation, Configuration & Validation_](docs/Installation,-Configuration-&-Validation): 12%
+### [_Installation, Configuration & Validation_](docs/Installation-Configuration-Validation): 12%
 * Design a Kubernetes cluster
 * Install Kubernetes masters and nodes, including the use of TLS bootstrapping
 * Configure secure cluster communications
