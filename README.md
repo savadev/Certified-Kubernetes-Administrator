@@ -4,7 +4,7 @@ Online resources that will help you prepare for taking the Certified Kubernetes 
 ## Exam Objectives
 These are the exam objectives you review and understand in order to pass the test. The objectives are current as of October, 2018.
 
-* [CNCF Exam Curriculum repository ](https://github.com/cncf/curriculum/
+* [CNCF Exam Curriculum repository ](https://github.com/cncf/curriculum/)
 
 * [Kubernetes 101](https://kubernetes.io/docs/tutorials/k8s101/)
 * [Kubernetes 201](https://kubernetes.io/docs/tutorials/k8s201/)
