@@ -31,7 +31,7 @@ These are the exam objectives you review and understand in order to pass the tes
 * [CNCF Exam Curriculum repository ](https://github.com/cncf/curriculum/)
 
 
-### _Core concepts_: 19%
+### [_Core concepts_](https://github.com/Alien6-Interactive/Certified-Kubernetes-Administrator/wiki/Core-concepts): 19%
 * Understand the Kubernetes API primitives
 * Understand the Kubernetes cluster architecture
 * Understand Services and other network primitives
