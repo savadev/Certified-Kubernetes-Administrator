@@ -2,7 +2,7 @@
 Online resources that will help you prepare for taking the Certified Kubernetes Administrator (CKA) Certification exam.
 
 
-## Abstract
+## K8s Features
 Major Kubernetes supported features are:
 
 * __Service discovery and Load balancing__: Kubernetes gives containers their own IP addresses, groups sets of containers and refers to them via a Domain Name System (DNS). This DNS is also called a Kubernetes service. Kubernetes can discover these services automatically, and load-balance requests between containers of a given service
