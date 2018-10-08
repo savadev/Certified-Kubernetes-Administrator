@@ -31,12 +31,12 @@ These are the exam objectives you review and understand in order to pass the tes
 * [CNCF Exam Curriculum repository ](https://github.com/cncf/curriculum/)
 
 
-### [_Core concepts_](https://github.com/Alien6-Interactive/Certified-Kubernetes-Administrator/wiki/Core-concepts): 19%
+### [_Core concepts_](docs/Core-concepts): 19%
 * Understand the Kubernetes API primitives
 * Understand the Kubernetes cluster architecture
 * Understand Services and other network primitives
 
-### [_Networking_](https://github.com/Alien6-Interactive/Certified-Kubernetes-Administrator/wiki/Networking): 11%
+### [_Networking_](docs/Networking): 11%
 * Understand the networking configuration on the cluster nodes
 * Understand Pod networking concepts
 * Understand service networking
@@ -45,14 +45,14 @@ These are the exam objectives you review and understand in order to pass the tes
 * Know how to configure and use the cluster DNS
 * Understand CNI
 
-### [_Storage_](https://github.com/Alien6-Interactive/Certified-Kubernetes-Administrator/wiki/Storage): 7%
+### [_Storage_](docs/Storage): 7%
 * Understand persistent volumes and know how to create them
 * Understand access modes for volumes
 * Understand persistent volume claims primitive
 * Understand Kubernetes storage objects
 * Know how to configure applications with persistent storage
 
-### [_Security_](https://github.com/Alien6-Interactive/Certified-Kubernetes-Administrator/wiki/Security): 12%
+### [_Security_](docs/Security): 12%
 * Know how to configure authentication and authorization
 * Understand Kubernetes security primitives
 * Know to configure network policies
@@ -62,7 +62,7 @@ These are the exam objectives you review and understand in order to pass the tes
 * Secure persistent key value store
 * Work with role-based access control
 
-### [_Installation, Configuration & Validation_](https://github.com/Alien6-Interactive/Certified-Kubernetes-Administrator/wiki/Installation,-Configuration-&-Validation): 12%
+### [_Installation, Configuration & Validation_](docs/Installation,-Configuration-&-Validation): 12%
 * Design a Kubernetes cluster
 * Install Kubernetes masters and nodes, including the use of TLS bootstrapping
 * Configure secure cluster communications
@@ -75,13 +75,13 @@ These are the exam objectives you review and understand in order to pass the tes
 * Analyse end-to-end tests results
 * Run Node end-to-end tests
 
-### [_Application Lifecycle Management_](https://github.com/Alien6-Interactive/Certified-Kubernetes-Administrator/wiki/Application-Lifecycle-Management): 8%
+### [_Application Lifecycle Management_](docs/Application-Lifecycle-Management): 8%
 * Understand Deployments and how to perform rolling updates and rollbacks
 * Know various ways to configure applications
 * Know how to scale applications
 * Understand the primitives necessary to create a self-healing application
 
-### [_Scheduling_](https://github.com/Alien6-Interactive/Certified-Kubernetes-Administrator/wiki/Scheduling): 5%
+### [_Scheduling_](docs/Scheduling): 5%
 * Use label selectors to schedule Pods
 * Understand the role of DaemonSets
 * Understand how resource limits can affect Pod scheduling
@@ -90,19 +90,19 @@ These are the exam objectives you review and understand in order to pass the tes
 * Display scheduler events
 * Know how to configure the Kubernetes scheduler
 
-### [_Logging/Monitoring_](https://github.com/Alien6-Interactive/Certified-Kubernetes-Administrator/wiki/Logging-Monitoring): 5%
+### [_Logging/Monitoring_](docs/Logging-Monitoring): 5%
 * Understand how to monitor all cluster components
 * Understand how to monitor applications
 * Manage cluster component logs
 * Manage application logs
 
 
-### [_Cluster Maintenance_](https://github.com/Alien6-Interactive/Certified-Kubernetes-Administrator/wiki/Cluster-Maintenance): 11%
+### [_Cluster Maintenance_](docs/Cluster-Maintenance): 11%
 * Understand Kubernetes cluster upgrade process
 * Facilitate operating system upgrades
 * Implement backup and restore methodologies
 
-### [_Troubleshooting_](https://github.com/Alien6-Interactive/Certified-Kubernetes-Administrator/wiki/Troubleshooting): 10%
+### [_Troubleshooting_](docs/Troubleshooting): 10%
 * Troubleshoot application failure
 * Troubleshoot control plane failure
 * Troubleshoot worker node failure
