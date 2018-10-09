@@ -2,3 +2,15 @@
 ---
 
 @import "{{ site.theme }}";
+
+.navbar-brand {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: .4em 2em;
+    background: url(http://alien6.com/wp-content/themes/homepage-alien6/content/images/alien6-sm.png);
+    background-size: cover;
+    background-color: transparent;
+    width: 5em;
+    height: 2.25em;
+}
